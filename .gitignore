@@ -1,3 +1,4 @@
+/__pycache__
 /hr_info
 /rag-dataset/*.pdf
 chat_history.db
